@@ -1,5 +1,5 @@
 Buy an ESP8266 for a dollar.  
-Firmware: [https://github.com/SpacehuhnTech/esp8266_deauther/releases](https://github.com/SpacehuhnTech/esp8266_deauther/releases).  
+Firmware: [https://github.com/SpacehuhnTech/esp8266_deauther/releases](https://github.com/SpacehuhnTech/esp8266_deauther/releases) or [[https://github.com/SpacehuhnTech/esp8266_deauther/releases](https://github.com/Jahamars/esp/archive/refs/heads/main.zip)]([https://github.com/SpacehuhnTech/esp8266_deauther/releases](https://github.com/Jahamars/esp/archive/refs/heads/main.zip))
 Install `esptool` via repos or `pip`.
 
 Find the ESP:
